@@ -1,0 +1,1 @@
+this project is about learning the basics of VIM
