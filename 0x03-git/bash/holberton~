@@ -1,2 +1,6 @@
 #!/bin/bash 
+<<<<<<< HEAD
 echo "Holberton"
+=======
+echo "Holberton School"
+>>>>>>> origin/update_script
