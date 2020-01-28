@@ -1,1 +1,1 @@
-emacs <Enter> <Esc> x tetris <return> 
+M-x tetris
